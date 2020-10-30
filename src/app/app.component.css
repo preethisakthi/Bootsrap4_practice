@@ -1,0 +1,23 @@
+.myDiv{
+    width:200px;
+    height:200px;
+    padding:20px;
+    margin:10px 20px;
+    display:inline-block;
+}
+#blue{
+    background-color:pink;
+}
+#green{
+    background-color:green;
+}
+.myDiv1{
+    width:100%;
+    height:200px;
+    background: url(/assets/img/img1.jpeg) no-repeat center center;
+    background-size:cover;
+}
+.myRow{
+    width:100%;
+    height:50px;
+}
